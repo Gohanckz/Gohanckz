@@ -6,7 +6,11 @@ I am currently computer engineering and work of Ethical Hacker.
 I am certifing myself to one day contribute as much as possible.
 
 
-Certifications:
-   |_____ eJPT.
-   |_____ Road to OSCP.
+- Certifications:
+- [x] eJPT
+- [ ] eCPPT
+- [ ] OSCP
+- [ ] eWAP
+- [ ] OSWA
+
 
