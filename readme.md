@@ -15,3 +15,8 @@ I am certifing myself to one day contribute as much as possible. <br>
 - [ ] eWAP
 - [ ] OSWA
 
+
+
+
+
+<a title="Buy me a pizza" href="https://www.buymeacoffee.com/gohanckz"><img src="https://raw.githubusercontent.com/Gohanckz/Banners/master/aaaaaacoofffee.png" alt="Buy me a pizza" width="900" height="300"/></a>
