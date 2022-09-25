@@ -10,8 +10,8 @@ I am certifing myself to one day contribute as much as possible. <br>
 
 - Certifications:
 - [x] eJPT     
-- [x] eWAP    
-- [ ] eCPPT 
+- [x] eWPT    
+- [ ] eWPTX (In progres) 
 - [ ] OSCP 
 - [ ] OSWA
 
