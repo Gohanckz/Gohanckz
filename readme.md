@@ -26,8 +26,8 @@ My Name is Iván González (A.K.A Gohanckz) 👨‍💻.<br>I am a guy with a pa
 - [ ] OSCP 
 - [ ] OSWA
 
+[![](https://visitcount.itsvg.in/api?id=Gohanckz&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/gohanckz) 
 
-
-
-<a title="Buy me a pizza" href="https://www.buymeacoffee.com/gohanckz"><img src="https://raw.githubusercontent.com/Gohanckz/Banners/master/aaaaaacoofffee.png" alt="Buy me a pizza" width="900" height="230"/></a>
