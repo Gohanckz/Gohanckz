@@ -22,7 +22,8 @@ My Name is Iván González (A.K.A Gohanckz) 👨‍💻.<br>I am a guy with a pa
 - Certifications:
 - [x] eJPT     
 - [x] eWPT    
-- [ ] eWPTX (In progres) 
+- [x] eWPTX
+- [ ] CBBH 
 - [ ] OSCP 
 - [ ] OSWA
 
