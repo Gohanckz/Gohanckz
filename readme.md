@@ -1,12 +1,69 @@
-<img src="https://raw.githubusercontent.com/Gohanckz/Banners/master/bannerreadme.jpg" alt="Banner readme Github">
+<a href="https://gohanckz.github.io">
+  <img src="assets/header.svg" alt="Iván González (Gohanckz) — Offensive Security Engineer" width="100%">
+</a>
 
-Security Research / Bug Hunter
+<p align="center">
+  <a href="https://gohanckz.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=39ff6a" alt="Portfolio"></a>
+  <a href="https://hackerone.com/gohanckz"><img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=39ff6a" alt="HackerOne"></a>
+  <a href="https://linkedin.com/in/gohanckz/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff6a" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@gohanckz"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=39ff6a" alt="YouTube"></a>
+  <a href="https://twitter.com/Gohanckz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39ff6a" alt="X"></a>
+  <a href="https://instagram.com/gohanckz"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39ff6a" alt="Instagram"></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gohanckz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gohanckz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Gohanckz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gohanckz) 
+### `> whoami`
 
+Offensive Security Engineer and Security Researcher from Santiago, Chile, with 7+ years in ethical hacking
+and Red Team for banking, telecom and enterprise. I break **web, mobile and API** targets, hunt IPTV piracy
+(3000+ illegal sources identified) and build **AI agents** that automate offensive work.
+Bug bounty hunter on HackerOne and member of **Team Chile**, the national bug bounty team.
 
-  ## 💰 You can help me by Donating
-  
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gohanckz) 
+<p>
+  <img src="https://img.shields.io/badge/HTB-CBBH-39ff6a?style=flat-square&labelColor=000000" alt="CBBH">
+  <img src="https://img.shields.io/badge/HTB-CWES-39ff6a?style=flat-square&labelColor=000000" alt="CWES">
+  <img src="https://img.shields.io/badge/INE-eWPTX-39ff6a?style=flat-square&labelColor=000000" alt="eWPTX">
+  <img src="https://img.shields.io/badge/INE-eWPT-39ff6a?style=flat-square&labelColor=000000" alt="eWPT">
+  <img src="https://img.shields.io/badge/INE-eJPT-39ff6a?style=flat-square&labelColor=000000" alt="eJPT">
+</p>
 
+### `> stats`
+
+<img src="assets/stats.svg" alt="GitHub stats: contributions, streaks, repositories and languages" width="100%">
+
+### `> ls ~/projects`
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://synckz.com"><img src="assets/projects/synckz.svg" alt="Synckz" width="100%"></a></td>
+    <td width="50%"><a href="https://deepmaw.com"><img src="assets/projects/deepmaw.svg" alt="DeepMaw" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://console.oob.synckz.com"><img src="assets/projects/oob.svg" alt="OOB" width="100%"></a></td>
+    <td width="50%"><a href="https://hydra.synckz.com"><img src="assets/projects/hydra.svg" alt="Hydra" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://bugbounty.cl"><img src="assets/projects/bugbounty-cl.svg" alt="bugbounty.cl" width="100%"></a></td>
+    <td width="50%"><a href="https://youtube.com/@gohanckz"><img src="assets/projects/youtube.svg" alt="YouTube channel" width="100%"></a></td>
+  </tr>
+</table>
+
+### `> ls ~/tools`
+
+| Tool | What it does |
+|------|--------------|
+| [**guillotine**](https://github.com/Gohanckz/guillotine) | HTTP security header detection |
+| [**badhash**](https://github.com/Gohanckz/badhash) | Reverse password brute force |
+| [**CookieSpam**](https://github.com/Gohanckz/CookieSpam) | Session hijacking tests |
+| [**jsdump**](https://github.com/Gohanckz/jsdump) | JavaScript extraction for recon |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+  <img alt="Snake eating the contribution graph" src="assets/snake-dark.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/gohanckz"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=39ff6a" alt="Buy me a coffee"></a>
+</p>
+
+<sub>Banner, stats and project cards are generated by <a href="scripts/build.py"><code>scripts/build.py</code></a> and refreshed daily by GitHub Actions.</sub>

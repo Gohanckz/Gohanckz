@@ -1,0 +1,46 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # diario, 03:17 en Chile
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Banner, indicadores y proyectos
+        run: python scripts/build.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Serpiente del mapa de contribuciones
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-dark.svg?palette=github-dark&color_snake=#39ff6a&color_dots=#101010,#0c3d1a,#157a32,#24c04f,#39ff6a
+            assets/snake-light.svg?color_snake=#0b4a1e&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || (git commit -m "Actualizar indicadores del perfil" && git push)
